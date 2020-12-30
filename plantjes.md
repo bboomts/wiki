@@ -1,6 +1,0 @@
-# Plantjes
-
-{% page-ref page="./" %}
-
-
-
