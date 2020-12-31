@@ -34,7 +34,11 @@ Wanneer er te weinig voedingsstoffen in de grond zitten zullen de bladeren geel 
 {% endtab %}
 
 {% tab title="Vermeerderen" %}
-Vermeerderen kan door een luchtwortel af te snijden en deze te planten. Vermeerderen via sporen is ook mogelijk maar een stuk lastiger.
+Vermeerderen kan door een luchtwortel af te snijden en deze te planten. 
+
+Ook kan de plant tijdens het verpotten opgedeeld worden. Zet de nieuwe planten eventueel een paar dagen in een plastic zak op een warme lichte plek. Dit verminderd het vochtverlies. Er kunnen wat bladeren weggehaald worden om het beschadigde wortelstelsel te compenseren.
+
+Vermeerderen via sporen is ook mogelijk maar een stuk lastiger.
 {% endtab %}
 
 {% tab title="Problemen" %}
@@ -45,6 +49,8 @@ Vermeerderen kan door een luchtwortel af te snijden en deze te planten. Vermeerd
 | Bruine bladeren | Te koud water, overbemesting, schimmels in wortels, tocht, lage luchtvochtigheid | Oorzaak achterhalen en gepast oplossen |
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
